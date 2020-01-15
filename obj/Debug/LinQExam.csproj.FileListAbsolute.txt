@@ -1,0 +1,6 @@
+C:\Users\Haci\source\repos\LinQExam\LinQExam\bin\Debug\LinQExam.exe.config
+C:\Users\Haci\source\repos\LinQExam\LinQExam\bin\Debug\LinQExam.exe
+C:\Users\Haci\source\repos\LinQExam\LinQExam\bin\Debug\LinQExam.pdb
+C:\Users\Haci\source\repos\LinQExam\LinQExam\obj\Debug\LinQExam.csprojAssemblyReference.cache
+C:\Users\Haci\source\repos\LinQExam\LinQExam\obj\Debug\LinQExam.exe
+C:\Users\Haci\source\repos\LinQExam\LinQExam\obj\Debug\LinQExam.pdb
